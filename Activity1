@@ -2,18 +2,3 @@
 echo "Name: Charl Lupaz <br>";
 print "Course: BSIT";
 ?>
-
-<?php
-echo "Name: Chezter Brent Elnar <br>";
-print "Course: BSIT";
-?>
-
-<?php
-echo "Name: Carl Justin Reyes <br>";
-print "Course: BSIT";
-?>
-
-<?php
-echo "Name: Vezzy Pecenio <br>";
-print "Course: BSIT";
-?>
