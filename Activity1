@@ -1,0 +1,5 @@
+<?php
+echo "Name: Charl Lupaz <br>";
+print "Course: BSIT";
+?>
+
