@@ -1,1 +1,7 @@
+<?php
+$name = "Charl";
+$age = 22;
 
+echo "Name: " . $name . "<br>";
+echo "Age: " . $age;
+?>
