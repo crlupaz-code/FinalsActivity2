@@ -1,8 +1,5 @@
 <?php
-$student = "Charl";
-$age = 22;
-
-echo "Student: " . $student . "<br>";
-echo "Age: " . $age . "<br>";
-echo "Welcome to PHP!";
+$name = "Ana";
+$age = 18;
+echo $age;
 ?>
