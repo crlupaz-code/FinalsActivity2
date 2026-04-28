@@ -7,3 +7,15 @@ echo "Difference: " . ($num1 - $num2) . "<br>";
 echo "Product: " . ($num1 * $num2) . "<br>";
 echo "Quotient: " . ($num1 / $num2);
 ?>
+
+
+<?php
+$TahoosPrice = 12;
+$PiatosPrice = 15;
+$money = 50;
+
+echo "Total Price: " . ($TahoosPrice + $PiatosPrice) . "<br>";
+
+echo "Change: " . ($money - ($TahoosPrice + $PiatosPrice)) . "<br>";
+
+?>
