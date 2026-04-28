@@ -1,0 +1,8 @@
+<?php
+$student = "Charl";
+$age = 22;
+
+echo "Student: " . $student . "<br>";
+echo "Age: " . $age . "<br>";
+echo "Welcome to PHP!";
+?>
